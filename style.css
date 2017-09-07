@@ -1,0 +1,102 @@
+body{
+    background-color:gray;
+}
+
+header{
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    color:#FF69B4;
+    
+}
+
+.Py{
+    font-size: 70px !important;
+    
+}
+
+
+nav a{
+    padding:5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    font-size: 1.8em;
+    text-decoration: none;
+    color: white;
+    background: pink;
+    margin: 0px 25px;
+}
+
+nav a:hover{
+    border-bottom: 2px #FF69B4 solid;
+    font-size: 2em;
+    transition: .9s;
+}
+
+img{
+    height:400px;
+    width: 400px;
+}
+
+.Letters{
+  font-size: 3em;  
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+table{
+    margin: 0px auto;
+    
+}
+
+td{
+    padding-right: 10px;
+    font-size: 1.3em;
+}
+
+td strong{
+    color:pink;
+}
+
+#table1{
+    background-color: #351a00;
+}
+
+.tab {
+    background-color: #753900;
+}
+
+#pic{
+    float:left;
+}
+
+.image3 {
+    height: 296px;
+    width: 745px;
+}
+
+.hh1{
+    font-size: 1.1em;
+    color: white;
+    border-style: dotted;
+}
+
+dl {
+   font-size: 1.7em;
+   color: White;
+   border-style: dotted; 
+   padding:1px;
+   padding-bottom: 1px;
+   padding-right: 1px;
+   
+}
+
+span{
+    
+    font-style: italic;
+    text-decoration: underline;
+    
+}
+
+
+
